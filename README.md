@@ -1,1 +1,0 @@
-# angular-ci-cd-demo
